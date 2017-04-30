@@ -1,4 +1,6 @@
-Equipe: Joceir Chaves e Jose Rodrigues
+Equipe: 
+[Joceir Chaves](https://github.com/Joceir)
+[Jose Rodrigues](https://github.com/jrodrigues1977)
 
 Trabalhos desenvolvidos:
 
