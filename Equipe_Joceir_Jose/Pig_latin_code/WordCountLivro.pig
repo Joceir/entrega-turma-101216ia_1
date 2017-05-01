@@ -23,6 +23,6 @@ counted = foreach grouped GENERATE group as word, COUNT(Alice_realwords) as word
 ordered = ORDER counted BY wordcount DESC;
 --Limita resultados em 1500 palavras
 result = LIMIT ordered 1500;
---Armazena resultado no HDFS /user/cloudera/pig/Alice_wc
+--Armazena resultado no HDFS /user/cloudera/pig/book_1500_words
 store result into 'pig/book_1500_words';
 

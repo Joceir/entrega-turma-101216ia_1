@@ -10,4 +10,4 @@ Trabalhos desenvolvidos:
 
 Linguagem utilizadas:
 
-Shell Script para tratar textos hml e Pig latin
+Shell Script para tratar textos html e Pig latin
